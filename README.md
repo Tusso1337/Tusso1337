@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**Tusso1337/Tusso1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 😎 I'm a young computer scientist from Chaco, Argentina
 
-Here are some ideas to get you started:
+</div>
+<h1 align="center">Languages</h1>
+<div align="center">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/c.svg"
+             title="C" alt="C"
+             width="60" height="60"/></a>&nbsp;
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/cpp.svg"
+             title="Cpp" alt="Cpp "
+             width="60" height="60"/></a>&nbsp;       
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/python.svg"
+             title="Python" alt="Python"
+             width="60" height="60"/></a>&nbsp;
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
