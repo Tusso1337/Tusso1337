@@ -13,6 +13,9 @@
         <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/javascript.svg"
              title="JavaScript" alt="JavaScript"
              width="60" height="60"/></a>&nbsp;
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/cpp.svg"
+             title="cpp" alt="cpp"
+             width="60" height="60"/></a>&nbsp;
 </div>
 
 </div>
