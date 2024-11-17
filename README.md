@@ -10,8 +10,11 @@
         <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/cpp.svg"
              title="C++" alt="C++"
              width="60" height="60"/></a>&nbsp;       
-        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/pawn.svg"
-             title="JavaScript" alt="JavaScript"
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/html.svg"
+             title="HTML" alt="HTML"
+             width="60" height="60"/></a>&nbsp;
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/css.svg"
+             title="css" alt="css"
              width="60" height="60"/></a>&nbsp;
 </div>
 
