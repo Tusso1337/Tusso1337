@@ -1,22 +1,12 @@
-
-## 🧨 I'm a young computer programmer from Valparaiso, Chile
-
-</div>
-<h1 align="center">Languages</h1>
 <div align="center">
-        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/python.svg"
-             title="Python" alt="Python"
-             width="60" height="60"/></a>&nbsp;
-        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/cpp.svg"
-             title="C++" alt="C++"
-             width="60" height="60"/></a>&nbsp;       
-        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/html.svg"
-             title="HTML" alt="HTML"
-             width="60" height="60"/></a>&nbsp;
-        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/css.svg"
-             title="css" alt="css"
-             width="60" height="60"/></a>&nbsp;
-        &nbsp;
+  <h2>Full Stack | Cybersecurity</h2>
+</div>
+<div align="center">
+        I specialize in Full Stack development, with a strong interest in cybersecurity.
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=python,js,html,css,php,mysql,cpp&perline=14" />    
+        <br>
+        <br>
         <img src="https://komarev.com/ghpvc/?username=tusso1337&style=flat-square&color=blue" alt=""/>
 </div>
 
