@@ -16,8 +16,7 @@
         <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/css.svg"
              title="css" alt="css"
              width="60" height="60"/></a>&nbsp;
-        <br>
-        <br>
+        &nbsp;
         <img src="https://komarev.com/ghpvc/?username=tusso1337&style=flat-square&color=blue" alt=""/>
 </div>
 
